@@ -1,0 +1,95 @@
+						.one{
+							color:lightpink;
+						}
+
+						body{background: #fff3e9;
+							
+
+						}
+
+
+						 h1 {color: #922539;
+						 	font-weight:bold;
+						 	font-family: "Kanit", "Teko", sans-serif;
+						 	font-size:60px;
+						 	text-align:center;
+						  }
+
+						  h2 {font-size:30px;
+						  	font-family: "Kanit", "Teko", sans-serif;
+						  	text-align:center;
+						  	text-wrap:normal;
+						  	word-wrap:break-word;
+						  	color:lightpink ;
+							}
+
+							h3 {font-family: "Anton SC", "Concert one", sans-serif;
+								color: #deb0a5;
+								font-size:34px;
+								text-align:center;
+
+							}
+
+							h4{font-family: "Edu Australia VIC WA NT Hand Precursive", "ubuntu","oswald";
+								color:#606060;
+								font-size:24px;
+								text-align:left;
+							}
+						  	
+						  	table {border:0px solid white;
+						  			border-collapse: separate;
+						  			border-spacing: 20px;
+						  			margin-left: centre;
+						  			margin-right: centre;
+						  	}
+
+						  	#video {
+					            width: 100%;
+					            height: 100%;
+					            object-fit: cover; 
+							  }
+
+
+						ul {
+						  list-style-type: none;
+						  margin: 0;
+						  padding: 0;
+						  overflow: hidden;
+						  background-color: #333;
+						}
+
+						li {
+						  float: left;
+						}
+
+						li a {
+						  display: block;
+						  color: white;
+						  text-align: center;
+						  padding: 14px 16px;
+						  text-decoration: none;
+						}
+
+						li a:hover {
+						  background-color: #922539;
+						}
+
+	#botonPagar{ background-color: #EA4C89;
+	  border-radius: 8px;
+	  border-style: none;
+	  box-sizing: border-box;
+	  color: #FFFFFF;
+	  cursor: pointer;
+	  display: inline-block;
+	  font-family: "Haas Grot Text R Web", "Helvetica Neue", "Helvetica", sans-serif;
+	  font-size: 12px;
+	  font-weight: 500;
+	  height: 70px;
+	  line-height: 20px;
+	  margin: 0;
+	  outline: none;
+	  padding: 10px 16px;
+	  position: center;
+	  
+														
+	
